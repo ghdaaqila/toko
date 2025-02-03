@@ -5,7 +5,7 @@
 </head>
 <body>
 <form method="post" action="#">
-    <img src="gambar/fruits.jpg" width="" height="">
+    <img src="gambar/fruits.jpg" width="1420" height="300">
 <table align="center">
     <tr>
         <td>Item</td>
